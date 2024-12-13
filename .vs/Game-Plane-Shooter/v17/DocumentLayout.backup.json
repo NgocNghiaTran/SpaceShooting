@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\assets\\scripts\\spawner\\spanwerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner\\spanwerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|d:\\clonegame\\gamebanmaybay-unity\\game-plane-shooter\\assets\\scripts\\player\\playercontrollerhard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontrollerhard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|d:\\clonegame\\gamebanmaybay-unity\\game-plane-shooter\\assets\\scripts\\controller\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\assets\\scripts\\enemies\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\assets\\scripts\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\assets\\scripts\\controller\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\assets\\scripts\\enemies\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\assets\\scripts\\lantoa\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lantoa\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\assets\\scripts\\lantoa\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C482BD-E50E-9085-182F-9FDBFE0C6F34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lantoa\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerControllerHard.cs",
+              "DocumentMoniker": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Player\\PlayerControllerHard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerControllerHard.cs",
+              "ToolTip": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Player\\PlayerControllerHard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerControllerHard.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowDIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:50:20.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Enemies\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy.cs",
+              "ToolTip": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Enemies\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA7wAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:39:29.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwCcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:01:50.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Enemies\\Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Boss.cs",
+              "ToolTip": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Enemies\\Boss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Boss.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAewEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:10:52.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Controller\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\MainMenuController.cs",
+              "ToolTip": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Controller\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\MainMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:58:36.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rock.cs",
+              "DocumentMoniker": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Enemies\\Rock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Rock.cs",
+              "ToolTip": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Enemies\\Rock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Rock.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:24:52.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Lantoa\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lantoa\\Gun.cs",
+              "ToolTip": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Lantoa\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lantoa\\Gun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:06:07.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GamePlayController.cs",
+              "DocumentMoniker": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Controller\\GamePlayController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\GamePlayController.cs",
+              "ToolTip": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Controller\\GamePlayController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\GamePlayController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwG8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:05:32.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Lantoa\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lantoa\\Bullet.cs",
+              "ToolTip": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Lantoa\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lantoa\\Bullet.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:41:06.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpanwerEnemy.cs",
+              "DocumentMoniker": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Spawner\\SpanwerEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner\\SpanwerEnemy.cs",
+              "ToolTip": "D:\\CloneGame\\GameBanMayBay-Unity\\Game-Plane-Shooter\\Assets\\Scripts\\Spawner\\SpanwerEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner\\SpanwerEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:24:30.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

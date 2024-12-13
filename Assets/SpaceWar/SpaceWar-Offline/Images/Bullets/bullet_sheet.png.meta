@@ -1,0 +1,5514 @@
+fileFormatVersion: 2
+guid: ec4c0f07283e7d442a134929265e2a87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 000.png
+  - first:
+      213: 21300002
+    second: 001.png
+  - first:
+      213: 21300004
+    second: 002.png
+  - first:
+      213: 21300006
+    second: 004.png
+  - first:
+      213: 21300008
+    second: 005.png
+  - first:
+      213: 21300010
+    second: 006.png
+  - first:
+      213: 21300012
+    second: 007.png
+  - first:
+      213: 21300014
+    second: 008.png
+  - first:
+      213: 21300016
+    second: 009.png
+  - first:
+      213: 21300018
+    second: 01.png
+  - first:
+      213: 21300020
+    second: 010.png
+  - first:
+      213: 21300022
+    second: 011.png
+  - first:
+      213: 21300024
+    second: 012.png
+  - first:
+      213: 21300026
+    second: 013.png
+  - first:
+      213: 21300028
+    second: 014.png
+  - first:
+      213: 21300030
+    second: 015.png
+  - first:
+      213: 21300032
+    second: 016.png
+  - first:
+      213: 21300034
+    second: 017.png
+  - first:
+      213: 21300036
+    second: 018.png
+  - first:
+      213: 21300038
+    second: 019.png
+  - first:
+      213: 21300040
+    second: 02.png
+  - first:
+      213: 21300042
+    second: 020.png
+  - first:
+      213: 21300044
+    second: 021.png
+  - first:
+      213: 21300046
+    second: 022.png
+  - first:
+      213: 21300048
+    second: 023.png
+  - first:
+      213: 21300050
+    second: 024.png
+  - first:
+      213: 21300052
+    second: 025.png
+  - first:
+      213: 21300054
+    second: 026.png
+  - first:
+      213: 21300056
+    second: 027.png
+  - first:
+      213: 21300058
+    second: 028.png
+  - first:
+      213: 21300060
+    second: 029.png
+  - first:
+      213: 21300062
+    second: 03.png
+  - first:
+      213: 21300064
+    second: 030.png
+  - first:
+      213: 21300066
+    second: 031.png
+  - first:
+      213: 21300068
+    second: col_035.png
+  - first:
+      213: 21300070
+    second: col_036.png
+  - first:
+      213: 21300072
+    second: col_040.png
+  - first:
+      213: 21300074
+    second: col_044.png
+  - first:
+      213: 21300076
+    second: col_049.png
+  - first:
+      213: 21300078
+    second: 052.png
+  - first:
+      213: 21300080
+    second: 053.png
+  - first:
+      213: 21300082
+    second: 054.png
+  - first:
+      213: 21300084
+    second: 063.png
+  - first:
+      213: 21300086
+    second: 064.png
+  - first:
+      213: 21300088
+    second: 065.png
+  - first:
+      213: 21300090
+    second: 066.png
+  - first:
+      213: 21300092
+    second: bul_rocket-079.png
+  - first:
+      213: 21300094
+    second: 080.png
+  - first:
+      213: 21300096
+    second: 081.png
+  - first:
+      213: 21300098
+    second: 082.png
+  - first:
+      213: 21300100
+    second: 083.png
+  - first:
+      213: 21300102
+    second: 084.png
+  - first:
+      213: 21300104
+    second: 085.png
+  - first:
+      213: 21300106
+    second: 086.png
+  - first:
+      213: 21300108
+    second: 087.png
+  - first:
+      213: 21300110
+    second: 088.png
+  - first:
+      213: 21300112
+    second: 089.png
+  - first:
+      213: 21300114
+    second: 090.png
+  - first:
+      213: 21300116
+    second: 091.png
+  - first:
+      213: 21300118
+    second: 092.png
+  - first:
+      213: 21300120
+    second: bul_rocket-093.png
+  - first:
+      213: 21300122
+    second: bul_rocket-094.png
+  - first:
+      213: 21300124
+    second: bul_rocket-095.png
+  - first:
+      213: 21300126
+    second: 096.png
+  - first:
+      213: 21300128
+    second: 097.png
+  - first:
+      213: 21300130
+    second: 098.png
+  - first:
+      213: 21300132
+    second: 099.png
+  - first:
+      213: 21300134
+    second: bul_thunder 1-1.png
+  - first:
+      213: 21300136
+    second: 1-2.png
+  - first:
+      213: 21300138
+    second: 100.png
+  - first:
+      213: 21300140
+    second: 101.png
+  - first:
+      213: 21300142
+    second: 102.png
+  - first:
+      213: 21300144
+    second: 103.png
+  - first:
+      213: 21300146
+    second: 104.png
+  - first:
+      213: 21300148
+    second: 105.png
+  - first:
+      213: 21300150
+    second: 106.png
+  - first:
+      213: 21300152
+    second: 107.png
+  - first:
+      213: 21300154
+    second: 108.png
+  - first:
+      213: 21300156
+    second: 109.png
+  - first:
+      213: 21300158
+    second: 110.png
+  - first:
+      213: 21300160
+    second: 111.png
+  - first:
+      213: 21300162
+    second: 112.png
+  - first:
+      213: 21300164
+    second: 113.png
+  - first:
+      213: 21300166
+    second: 114.png
+  - first:
+      213: 21300168
+    second: 115.png
+  - first:
+      213: 21300170
+    second: 116.png
+  - first:
+      213: 21300172
+    second: 117.png
+  - first:
+      213: 21300174
+    second: 118.png
+  - first:
+      213: 21300176
+    second: 119.png
+  - first:
+      213: 21300178
+    second: 120.png
+  - first:
+      213: 21300180
+    second: 121.png
+  - first:
+      213: 21300182
+    second: 122.png
+  - first:
+      213: 21300184
+    second: 123.png
+  - first:
+      213: 21300186
+    second: 124.png
+  - first:
+      213: 21300188
+    second: 125.png
+  - first:
+      213: 21300190
+    second: 126.png
+  - first:
+      213: 21300192
+    second: 127.png
+  - first:
+      213: 21300194
+    second: 128.png
+  - first:
+      213: 21300196
+    second: 129.png
+  - first:
+      213: 21300198
+    second: 130.png
+  - first:
+      213: 21300200
+    second: 131.png
+  - first:
+      213: 21300202
+    second: 132.png
+  - first:
+      213: 21300204
+    second: 133.png
+  - first:
+      213: 21300206
+    second: 134.png
+  - first:
+      213: 21300208
+    second: 135.png
+  - first:
+      213: 21300210
+    second: 136.png
+  - first:
+      213: 21300212
+    second: 137.png
+  - first:
+      213: 21300214
+    second: 138.png
+  - first:
+      213: 21300216
+    second: 139.png
+  - first:
+      213: 21300218
+    second: 140.png
+  - first:
+      213: 21300220
+    second: 141.png
+  - first:
+      213: 21300222
+    second: 142.png
+  - first:
+      213: 21300224
+    second: 143.png
+  - first:
+      213: 21300226
+    second: 144.png
+  - first:
+      213: 21300228
+    second: 145.png
+  - first:
+      213: 21300230
+    second: 146.png
+  - first:
+      213: 21300232
+    second: 147.png
+  - first:
+      213: 21300234
+    second: 148.png
+  - first:
+      213: 21300236
+    second: 149.png
+  - first:
+      213: 21300238
+    second: 151.png
+  - first:
+      213: 21300240
+    second: 152.png
+  - first:
+      213: 21300242
+    second: 153.png
+  - first:
+      213: 21300244
+    second: 154.png
+  - first:
+      213: 21300246
+    second: 155.png
+  - first:
+      213: 21300248
+    second: 156.png
+  - first:
+      213: 21300250
+    second: 157.png
+  - first:
+      213: 21300252
+    second: 158.png
+  - first:
+      213: 21300254
+    second: bul_thunder 2-1.png
+  - first:
+      213: 21300256
+    second: 2-2.png
+  - first:
+      213: 21300258
+    second: 200.png
+  - first:
+      213: 21300260
+    second: 201.png
+  - first:
+      213: 21300262
+    second: 202.png
+  - first:
+      213: 21300264
+    second: 203.png
+  - first:
+      213: 21300266
+    second: 204.png
+  - first:
+      213: 21300268
+    second: 205.png
+  - first:
+      213: 21300270
+    second: 206.png
+  - first:
+      213: 21300272
+    second: 207.png
+  - first:
+      213: 21300274
+    second: 208.png
+  - first:
+      213: 21300276
+    second: 209.png
+  - first:
+      213: 21300278
+    second: bul_thunder 3-1.png
+  - first:
+      213: 21300280
+    second: 3-2.png
+  - first:
+      213: 21300282
+    second: 4-1.png
+  - first:
+      213: 21300284
+    second: 400.png
+  - first:
+      213: 21300286
+    second: 500.png
+  - first:
+      213: 21300288
+    second: 501.png
+  - first:
+      213: 21300290
+    second: 502.png
+  - first:
+      213: 21300292
+    second: 55.png
+  - first:
+      213: 21300294
+    second: 56.png
+  - first:
+      213: 21300296
+    second: 57.png
+  - first:
+      213: 21300298
+    second: 58.png
+  - first:
+      213: 21300300
+    second: 59.png
+  - first:
+      213: 21300302
+    second: 60.png
+  - first:
+      213: 21300304
+    second: 600.png
+  - first:
+      213: 21300306
+    second: 601.png
+  - first:
+      213: 21300308
+    second: 602.png
+  - first:
+      213: 21300310
+    second: 61.png
+  - first:
+      213: 21300312
+    second: 62.png
+  - first:
+      213: 21300314
+    second: 700.png
+  - first:
+      213: 21300316
+    second: 701.png
+  - first:
+      213: 21300318
+    second: 702.png
+  - first:
+      213: 21300320
+    second: 76.png
+  - first:
+      213: 21300322
+    second: 77.png
+  - first:
+      213: 21300324
+    second: 78.png
+  - first:
+      213: 21300326
+    second: 800.png
+  - first:
+      213: 21300328
+    second: 801.png
+  - first:
+      213: 21300330
+    second: 802.png
+  - first:
+      213: 21300332
+    second: 900.png
+  - first:
+      213: 21300334
+    second: 901.png
+  - first:
+      213: 21300336
+    second: 902.png
+  - first:
+      213: 21300338
+    second: laser1.png
+  - first:
+      213: 21300340
+    second: laser2.png
+  - first:
+      213: 21300342
+    second: laser3.png
+  - first:
+      213: 21300344
+    second: shuijing1-1.png
+  - first:
+      213: 21300346
+    second: shuijing1-2.png
+  - first:
+      213: 21300348
+    second: shuijing1-3.png
+  - first:
+      213: 21300350
+    second: shuijing1-4.png
+  - first:
+      213: 21300352
+    second: shuijing2-1.png
+  - first:
+      213: 21300354
+    second: shuijing2-2.png
+  - first:
+      213: 21300356
+    second: shuijing2-3.png
+  - first:
+      213: 21300358
+    second: shuijing2-4.png
+  - first:
+      213: 21300360
+    second: shuijing3-1.png
+  - first:
+      213: 21300362
+    second: shuijing3-2.png
+  - first:
+      213: 21300364
+    second: shuijing3-3.png
+  - first:
+      213: 21300366
+    second: shuijing3-4.png
+  - first:
+      213: 21300368
+    second: shuijing4-1.png
+  - first:
+      213: 21300370
+    second: shuijing4-2.png
+  - first:
+      213: 21300372
+    second: shuijing4-3.png
+  - first:
+      213: 21300374
+    second: shuijing4-4.png
+  - first:
+      213: 21300376
+    second: shuijing5-1.png
+  - first:
+      213: 21300378
+    second: shuijing5-2.png
+  - first:
+      213: 21300380
+    second: shuijing5-3.png
+  - first:
+      213: 21300382
+    second: shuijing5-4.png
+  - first:
+      213: 21300384
+    second: shuijing6-1.png
+  - first:
+      213: 21300386
+    second: shuijing6-2.png
+  - first:
+      213: 21300388
+    second: shuijing6-3.png
+  - first:
+      213: 21300390
+    second: shuijing6-4.png
+  - first:
+      213: 21300392
+    second: bul_000.png
+  - first:
+      213: 21300394
+    second: bul_001.png
+  - first:
+      213: 21300396
+    second: bul_002.png
+  - first:
+      213: 21300398
+    second: bul_004.png
+  - first:
+      213: 21300400
+    second: bul_005.png
+  - first:
+      213: 21300402
+    second: bul_006.png
+  - first:
+      213: 21300404
+    second: bul_007.png
+  - first:
+      213: 21300406
+    second: bul_008.png
+  - first:
+      213: 21300408
+    second: bul_009.png
+  - first:
+      213: 21300410
+    second: bul_01.png
+  - first:
+      213: 21300412
+    second: bul_010.png
+  - first:
+      213: 21300414
+    second: bul_011.png
+  - first:
+      213: 21300416
+    second: bul_012.png
+  - first:
+      213: 21300418
+    second: bul_013.png
+  - first:
+      213: 21300420
+    second: bul_014.png
+  - first:
+      213: 21300422
+    second: bul_015.png
+  - first:
+      213: 21300424
+    second: bul_016.png
+  - first:
+      213: 21300426
+    second: bul_017.png
+  - first:
+      213: 21300428
+    second: bul_018.png
+  - first:
+      213: 21300430
+    second: bul_019.png
+  - first:
+      213: 21300432
+    second: bul_02.png
+  - first:
+      213: 21300434
+    second: bul_020.png
+  - first:
+      213: 21300436
+    second: bul_021.png
+  - first:
+      213: 21300438
+    second: bul_022.png
+  - first:
+      213: 21300440
+    second: bul_023.png
+  - first:
+      213: 21300442
+    second: bul_024.png
+  - first:
+      213: 21300444
+    second: bul_025.png
+  - first:
+      213: 21300446
+    second: bul_026.png
+  - first:
+      213: 21300448
+    second: bul_027.png
+  - first:
+      213: 21300450
+    second: bul_028.png
+  - first:
+      213: 21300452
+    second: bul_029.png
+  - first:
+      213: 21300454
+    second: bul_03.png
+  - first:
+      213: 21300456
+    second: bul_030.png
+  - first:
+      213: 21300458
+    second: bul_031.png
+  - first:
+      213: 21300460
+    second: bul_col_035.png
+  - first:
+      213: 21300462
+    second: bul_052.png
+  - first:
+      213: 21300464
+    second: bul_053.png
+  - first:
+      213: 21300466
+    second: bul_054.png
+  - first:
+      213: 21300468
+    second: bul_063.png
+  - first:
+      213: 21300470
+    second: bul_064.png
+  - first:
+      213: 21300472
+    second: bul_065.png
+  - first:
+      213: 21300474
+    second: bul_066.png
+  - first:
+      213: 21300476
+    second: bul_081.png
+  - first:
+      213: 21300478
+    second: bul_082.png
+  - first:
+      213: 21300480
+    second: bul_083.png
+  - first:
+      213: 21300482
+    second: bul_084.png
+  - first:
+      213: 21300484
+    second: bul_085.png
+  - first:
+      213: 21300486
+    second: bul_086.png
+  - first:
+      213: 21300488
+    second: bul_087.png
+  - first:
+      213: 21300490
+    second: bul_088.png
+  - first:
+      213: 21300492
+    second: bul_089.png
+  - first:
+      213: 21300494
+    second: bul_090.png
+  - first:
+      213: 21300496
+    second: bul_091.png
+  - first:
+      213: 21300498
+    second: bul_092.png
+  - first:
+      213: 21300500
+    second: bul_096.png
+  - first:
+      213: 21300502
+    second: bul_097.png
+  - first:
+      213: 21300504
+    second: bul_098.png
+  - first:
+      213: 21300506
+    second: bul_099.png
+  - first:
+      213: 21300508
+    second: bul_100.png
+  - first:
+      213: 21300510
+    second: bul_101.png
+  - first:
+      213: 21300512
+    second: bul_102.png
+  - first:
+      213: 21300514
+    second: bul_103.png
+  - first:
+      213: 21300516
+    second: bul_104.png
+  - first:
+      213: 21300518
+    second: bul_105.png
+  - first:
+      213: 21300520
+    second: bul_106.png
+  - first:
+      213: 21300522
+    second: bul_107.png
+  - first:
+      213: 21300524
+    second: bul_108.png
+  - first:
+      213: 21300526
+    second: bul_109.png
+  - first:
+      213: 21300528
+    second: bul_110.png
+  - first:
+      213: 21300530
+    second: bul_111.png
+  - first:
+      213: 21300532
+    second: bul_112.png
+  - first:
+      213: 21300534
+    second: bul_113.png
+  - first:
+      213: 21300536
+    second: bul_114.png
+  - first:
+      213: 21300538
+    second: bul_115.png
+  - first:
+      213: 21300540
+    second: bul_116.png
+  - first:
+      213: 21300542
+    second: bul_117.png
+  - first:
+      213: 21300544
+    second: bul_118.png
+  - first:
+      213: 21300546
+    second: bul_119.png
+  - first:
+      213: 21300548
+    second: bul_120.png
+  - first:
+      213: 21300550
+    second: bul_121.png
+  - first:
+      213: 21300552
+    second: bul_122.png
+  - first:
+      213: 21300554
+    second: bul_123.png
+  - first:
+      213: 21300556
+    second: bul_124.png
+  - first:
+      213: 21300558
+    second: bul_125.png
+  - first:
+      213: 21300560
+    second: bul_126.png
+  - first:
+      213: 21300562
+    second: bul_127.png
+  - first:
+      213: 21300564
+    second: bul_128.png
+  - first:
+      213: 21300566
+    second: bul_129.png
+  - first:
+      213: 21300568
+    second: bul_130.png
+  - first:
+      213: 21300570
+    second: bul_131.png
+  - first:
+      213: 21300572
+    second: bul_132.png
+  - first:
+      213: 21300574
+    second: bul_133.png
+  - first:
+      213: 21300576
+    second: bul_134.png
+  - first:
+      213: 21300578
+    second: bul_135.png
+  - first:
+      213: 21300580
+    second: bul_136.png
+  - first:
+      213: 21300582
+    second: bul_137.png
+  - first:
+      213: 21300584
+    second: bul_138.png
+  - first:
+      213: 21300586
+    second: bul_139.png
+  - first:
+      213: 21300588
+    second: bul_140.png
+  - first:
+      213: 21300590
+    second: bul_141.png
+  - first:
+      213: 21300592
+    second: bul_142.png
+  - first:
+      213: 21300594
+    second: bul_143.png
+  - first:
+      213: 21300596
+    second: bul_144.png
+  - first:
+      213: 21300598
+    second: bul_145.png
+  - first:
+      213: 21300600
+    second: bul_146.png
+  - first:
+      213: 21300602
+    second: bul_147.png
+  - first:
+      213: 21300604
+    second: bul_148.png
+  - first:
+      213: 21300606
+    second: bul_149.png
+  - first:
+      213: 21300608
+    second: bul_151.png
+  - first:
+      213: 21300610
+    second: bul_152.png
+  - first:
+      213: 21300612
+    second: bul_153.png
+  - first:
+      213: 21300614
+    second: bul_154.png
+  - first:
+      213: 21300616
+    second: bul_155.png
+  - first:
+      213: 21300618
+    second: bul_156.png
+  - first:
+      213: 21300620
+    second: bul_157.png
+  - first:
+      213: 21300622
+    second: bul_158.png
+  - first:
+      213: 21300624
+    second: bul_200.png
+  - first:
+      213: 21300626
+    second: bul_201.png
+  - first:
+      213: 21300628
+    second: bul_202.png
+  - first:
+      213: 21300630
+    second: bul_203.png
+  - first:
+      213: 21300632
+    second: bul_204.png
+  - first:
+      213: 21300634
+    second: bul_205.png
+  - first:
+      213: 21300636
+    second: bul_206.png
+  - first:
+      213: 21300638
+    second: bul_207.png
+  - first:
+      213: 21300640
+    second: bul_208.png
+  - first:
+      213: 21300642
+    second: bul_209.png
+  - first:
+      213: 21300644
+    second: bul_arrow_400.png
+  - first:
+      213: 21300646
+    second: bul_arrow_500.png
+  - first:
+      213: 21300648
+    second: bul_arrow_501.png
+  - first:
+      213: 21300650
+    second: bul_arrow_502.png
+  - first:
+      213: 21300652
+    second: bul_arrow_600.png
+  - first:
+      213: 21300654
+    second: bul_arrow_601.png
+  - first:
+      213: 21300656
+    second: bul_arrow_602.png
+  - first:
+      213: 21300658
+    second: bul_arrow_700.png
+  - first:
+      213: 21300660
+    second: bul_arrow_701.png
+  - first:
+      213: 21300662
+    second: bul_arrow_801.png
+  - first:
+      213: 21300664
+    second: bul_arrow_802.png
+  - first:
+      213: 21300666
+    second: bul_arrow_900.png
+  - first:
+      213: 21300668
+    second: bul_arrow_901.png
+  - first:
+      213: 21300670
+    second: bul_arrow_902.png
+  - first:
+      213: 21300672
+    second: bul_shuriken_000.png
+  - first:
+      213: 21300674
+    second: bul_shuriken_001.png
+  - first:
+      213: 21300676
+    second: bul_shuriken_002.png
+  - first:
+      213: 21300678
+    second: bul_shuriken_010.png
+  - first:
+      213: 21300680
+    second: bul_shuriken_011.png
+  - first:
+      213: 21300682
+    second: bul_energy_012.png
+  - first:
+      213: 21300684
+    second: bul_energy_013.png
+  - first:
+      213: 21300686
+    second: bul_energy_014.png
+  - first:
+      213: 21300688
+    second: bul_energy_015.png
+  - first:
+      213: 21300690
+    second: bul_energy_016.png
+  - first:
+      213: 21300692
+    second: bul_shuriken_113.png
+  - first:
+      213: 21300694
+    second: bul_shuriken_114.png
+  - first:
+      213: 21300696
+    second: bul_shuriken_115.png
+  - first:
+      213: 21300698
+    second: bul_shuriken_116.png
+  - first:
+      213: 21300700
+    second: bul_shuriken_117.png
+  - first:
+      213: 21300702
+    second: bul_shuriken_118.png
+  - first:
+      213: 21300704
+    second: bul_star_119.png
+  - first:
+      213: 21300706
+    second: bul_star_120.png
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bul_shuriken_000.png
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 938
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49330032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c505410000000000800000000000000
+      internalID: 21300672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_shuriken_001.png
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 711
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 0.49404976, y: 0.506227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c505410000000000800000000000000
+      internalID: 21300674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_shuriken_002.png
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 53
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 0.51497465, y: 0.50000125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c505410000000000800000000000000
+      internalID: 21300676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_004.png
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 64
+        width: 40
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_005.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 180
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_006.png
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 613
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_007.png
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 157
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_008.png
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 405
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_009.png
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 149
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_01.png
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_shuriken_010.png
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 4
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.49766505, y: 0.47590902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c505410000000000800000000000000
+      internalID: 21300678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_shuriken_011.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 72
+        height: 67
+      alignment: 9
+      pivot: {x: 0.50210786, y: 0.49773452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c505410000000000800000000000000
+      internalID: 21300680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_energy_012.png
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 760
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac505410000000000800000000000000
+      internalID: 21300682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_energy_013.png
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 920
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc505410000000000800000000000000
+      internalID: 21300684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_energy_014.png
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 294
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec505410000000000800000000000000
+      internalID: 21300686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_energy_015.png
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 523
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d505410000000000800000000000000
+      internalID: 21300688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_energy_016.png
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 460
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d505410000000000800000000000000
+      internalID: 21300690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_017.png
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 405
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac405410000000000800000000000000
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_018.png
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 821
+        width: 30
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc405410000000000800000000000000
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_019.png
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 790
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec405410000000000800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_02.png
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 64
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d405410000000000800000000000000
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_020.png
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 433
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d405410000000000800000000000000
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_021.png
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 402
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d405410000000000800000000000000
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_022.png
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 371
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d405410000000000800000000000000
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_023.png
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 20
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d405410000000000800000000000000
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_024.png
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 951
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad405410000000000800000000000000
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_025.png
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 636
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd405410000000000800000000000000
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_026.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 613
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed405410000000000800000000000000
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_027.png
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 348
+        width: 40
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e405410000000000800000000000000
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_028.png
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 655
+        width: 19
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e405410000000000800000000000000
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_029.png
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 794
+        width: 28
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e405410000000000800000000000000
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_03.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 26
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e405410000000000800000000000000
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_030.png
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 324
+        width: 56
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e405410000000000800000000000000
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_031.png
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 556
+        width: 10
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae405410000000000800000000000000
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_col_035.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 671
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce405410000000000800000000000000
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: col_036.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: col_040.png
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 68
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: col_044.png
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 150
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: col_049.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 596
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_052.png
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 112
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee405410000000000800000000000000
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_053.png
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 703
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f405410000000000800000000000000
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_054.png
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 686
+        width: 57
+        height: 68
+      alignment: 9
+      pivot: {x: 0.52614766, y: 0.47808298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f405410000000000800000000000000
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_063.png
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 491
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f405410000000000800000000000000
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_064.png
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 334
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f405410000000000800000000000000
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_065.png
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 303
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f405410000000000800000000000000
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_066.png
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 845
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af405410000000000800000000000000
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_rocket-079.png
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 313
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 080.png
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 848
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_081.png
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 522
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf405410000000000800000000000000
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_082.png
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 553
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef405410000000000800000000000000
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_083.png
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 584
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00505410000000000800000000000000
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_084.png
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 615
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20505410000000000800000000000000
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_085.png
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 646
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40505410000000000800000000000000
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_086.png
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 951
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60505410000000000800000000000000
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_087.png
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 721
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80505410000000000800000000000000
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_088.png
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 752
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0505410000000000800000000000000
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_089.png
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 783
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0505410000000000800000000000000
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_090.png
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 814
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0505410000000000800000000000000
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_091.png
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01505410000000000800000000000000
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_092.png
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 876
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21505410000000000800000000000000
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_rocket-093.png
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 284
+        width: 40
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_rocket-094.png
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 445
+        width: 40
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_rocket-095.png
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 443
+        width: 40
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_096.png
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 664
+        width: 32
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41505410000000000800000000000000
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_097.png
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 772
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61505410000000000800000000000000
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_098.png
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 365
+        width: 30
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81505410000000000800000000000000
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_099.png
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 584
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1505410000000000800000000000000
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_thunder 1-1.png
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 117
+        width: 42
+        height: 864
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-2.png
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 763
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_100.png
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 370
+        width: 14
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1505410000000000800000000000000
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_101.png
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 442
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1505410000000000800000000000000
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_102.png
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 187
+        width: 14
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02505410000000000800000000000000
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_103.png
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 513
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22505410000000000800000000000000
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_104.png
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 43
+        width: 14
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42505410000000000800000000000000
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_105.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 481
+        width: 14
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62505410000000000800000000000000
+      internalID: 21300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_106.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 339
+        width: 14
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82505410000000000800000000000000
+      internalID: 21300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_107.png
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 858
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2505410000000000800000000000000
+      internalID: 21300522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_108.png
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 889
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2505410000000000800000000000000
+      internalID: 21300524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_109.png
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 920
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2505410000000000800000000000000
+      internalID: 21300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_110.png
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 951
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03505410000000000800000000000000
+      internalID: 21300528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_111.png
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 531
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23505410000000000800000000000000
+      internalID: 21300530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_112.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 20
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43505410000000000800000000000000
+      internalID: 21300532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_shuriken_113.png
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 667
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.51040167, y: 0.5061844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d505410000000000800000000000000
+      internalID: 21300692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_shuriken_114.png
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 894
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.49960744, y: 0.50589484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d505410000000000800000000000000
+      internalID: 21300694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_shuriken_115.png
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 6
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5042829, y: 0.49561846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d505410000000000800000000000000
+      internalID: 21300696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_shuriken_116.png
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 89
+        width: 55
+        height: 60
+      alignment: 9
+      pivot: {x: 0.500852, y: 0.48010814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad505410000000000800000000000000
+      internalID: 21300698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_shuriken_117.png
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 754
+        width: 57
+        height: 60
+      alignment: 9
+      pivot: {x: 0.517432, y: 0.47516072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd505410000000000800000000000000
+      internalID: 21300700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_shuriken_118.png
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5199005, y: 0.4740849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed505410000000000800000000000000
+      internalID: 21300702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_star_119.png
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 347
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e505410000000000800000000000000
+      internalID: 21300704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_star_120.png
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 648
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e505410000000000800000000000000
+      internalID: 21300706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_121.png
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 901
+        width: 21
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64505410000000000800000000000000
+      internalID: 21300550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_122.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 10
+        width: 21
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84505410000000000800000000000000
+      internalID: 21300552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_123.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 91
+        width: 21
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4505410000000000800000000000000
+      internalID: 21300554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_124.png
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 567
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4505410000000000800000000000000
+      internalID: 21300556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_125.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 681
+        width: 35
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4505410000000000800000000000000
+      internalID: 21300558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_126.png
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 8
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05505410000000000800000000000000
+      internalID: 21300560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_127.png
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 562
+        width: 32
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25505410000000000800000000000000
+      internalID: 21300562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_128.png
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 551
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45505410000000000800000000000000
+      internalID: 21300564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_129.png
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 157
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65505410000000000800000000000000
+      internalID: 21300566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_130.png
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 256
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85505410000000000800000000000000
+      internalID: 21300568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_131.png
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 217
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5505410000000000800000000000000
+      internalID: 21300570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_132.png
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 849
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5505410000000000800000000000000
+      internalID: 21300572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_133.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 233
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5505410000000000800000000000000
+      internalID: 21300574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_134.png
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 220
+        width: 23
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06505410000000000800000000000000
+      internalID: 21300576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_135.png
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 347
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26505410000000000800000000000000
+      internalID: 21300578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_136.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 658
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46505410000000000800000000000000
+      internalID: 21300580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_137.png
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 815
+        width: 58
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66505410000000000800000000000000
+      internalID: 21300582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_138.png
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 127
+        width: 58
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86505410000000000800000000000000
+      internalID: 21300584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_139.png
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 48
+        width: 40
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6505410000000000800000000000000
+      internalID: 21300586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_140.png
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 166
+        width: 40
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6505410000000000800000000000000
+      internalID: 21300588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_141.png
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 183
+        width: 39
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6505410000000000800000000000000
+      internalID: 21300590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_142.png
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 18
+        width: 39
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07505410000000000800000000000000
+      internalID: 21300592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_143.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 218
+        width: 72
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27505410000000000800000000000000
+      internalID: 21300594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_144.png
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 445
+        width: 52
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47505410000000000800000000000000
+      internalID: 21300596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_145.png
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 217
+        width: 47
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67505410000000000800000000000000
+      internalID: 21300598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_146.png
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 50
+        width: 47
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87505410000000000800000000000000
+      internalID: 21300600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_147.png
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 97
+        width: 54
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7505410000000000800000000000000
+      internalID: 21300602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_148.png
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 831
+        width: 46
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7505410000000000800000000000000
+      internalID: 21300604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_149.png
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 512
+        width: 46
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7505410000000000800000000000000
+      internalID: 21300606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_151.png
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 755
+        width: 54
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08505410000000000800000000000000
+      internalID: 21300608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_152.png
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 871
+        width: 38
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28505410000000000800000000000000
+      internalID: 21300610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_153.png
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 760
+        width: 38
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48505410000000000800000000000000
+      internalID: 21300612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_154.png
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 59
+        width: 46
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68505410000000000800000000000000
+      internalID: 21300614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_155.png
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 210
+        width: 46
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88505410000000000800000000000000
+      internalID: 21300616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_156.png
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 361
+        width: 46
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8505410000000000800000000000000
+      internalID: 21300618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_157.png
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 663
+        width: 46
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8505410000000000800000000000000
+      internalID: 21300620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_158.png
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 437
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8505410000000000800000000000000
+      internalID: 21300622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_thunder 2-1.png
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 117
+        width: 45
+        height: 864
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-2.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 267
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_200.png
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 206
+        width: 27
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09505410000000000800000000000000
+      internalID: 21300624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_201.png
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 788
+        width: 27
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29505410000000000800000000000000
+      internalID: 21300626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_202.png
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 788
+        width: 27
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49505410000000000800000000000000
+      internalID: 21300628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_203.png
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 23
+        width: 29
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69505410000000000800000000000000
+      internalID: 21300630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_204.png
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 12
+        width: 27
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89505410000000000800000000000000
+      internalID: 21300632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_205.png
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 366
+        width: 27
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9505410000000000800000000000000
+      internalID: 21300634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_206.png
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 594
+        width: 27
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9505410000000000800000000000000
+      internalID: 21300636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_207.png
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 400
+        width: 27
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9505410000000000800000000000000
+      internalID: 21300638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_208.png
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 560
+        width: 27
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a505410000000000800000000000000
+      internalID: 21300640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_209.png
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 172
+        width: 27
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a505410000000000800000000000000
+      internalID: 21300642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_thunder 3-1.png
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 111
+        width: 29
+        height: 870
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2.png
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 384
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-1.png
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 115
+        width: 23
+        height: 866
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_400.png
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 561
+        width: 43
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a505410000000000800000000000000
+      internalID: 21300644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_500.png
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 571
+        width: 50
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a505410000000000800000000000000
+      internalID: 21300646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_501.png
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 202
+        width: 42
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a505410000000000800000000000000
+      internalID: 21300648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_502.png
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 575
+        width: 34
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa505410000000000800000000000000
+      internalID: 21300650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 55.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 411
+        width: 14
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 56.png
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 44
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 57.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 911
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 839
+        width: 14
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 59.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 768
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 697
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_600.png
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 384
+        width: 50
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca505410000000000800000000000000
+      internalID: 21300652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_601.png
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 848
+        width: 42
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea505410000000000800000000000000
+      internalID: 21300654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_602.png
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 464
+        width: 34
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b505410000000000800000000000000
+      internalID: 21300656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 61.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 626
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 554
+        width: 14
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_700.png
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 179
+        width: 50
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b505410000000000800000000000000
+      internalID: 21300658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_701.png
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 726
+        width: 42
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b505410000000000800000000000000
+      internalID: 21300660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 702.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 249
+        width: 37
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 76.png
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 44
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77.png
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 6
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 78.png
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 6
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800.png
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 11
+        width: 50
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_801.png
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 349
+        width: 42
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b505410000000000800000000000000
+      internalID: 21300662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_802.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 51
+        width: 37
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b505410000000000800000000000000
+      internalID: 21300664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_900.png
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 814
+        width: 50
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab505410000000000800000000000000
+      internalID: 21300666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_901.png
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 604
+        width: 42
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb505410000000000800000000000000
+      internalID: 21300668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bul_arrow_902.png
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 150
+        width: 37
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb505410000000000800000000000000
+      internalID: 21300670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 130
+        height: 826
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser2.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 755
+        width: 130
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser3.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 294
+        width: 70
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing1-1.png
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing1-2.png
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 677
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing1-3.png
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 523
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing1-4.png
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 907
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing2-1.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing2-2.png
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 59
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing2-3.png
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing2-4.png
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing3-1.png
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 521
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing3-2.png
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 596
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing3-3.png
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 686
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing3-4.png
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 523
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing4-1.png
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 754
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing4-2.png
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 94
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing4-3.png
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 261
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing4-4.png
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 79
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing5-1.png
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 73
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing5-2.png
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 35
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing5-3.png
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 73
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing5-4.png
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 367
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing6-1.png
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 8
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing6-2.png
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 516
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing6-3.png
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 750
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuijing6-4.png
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 471
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      080.png: 21300094
+      1-2.png: 21300136
+      2-2.png: 21300256
+      3-2.png: 21300280
+      4-1.png: 21300282
+      55.png: 21300292
+      56.png: 21300294
+      57.png: 21300296
+      58.png: 21300298
+      59.png: 21300300
+      60.png: 21300302
+      61.png: 21300310
+      62.png: 21300312
+      702.png: 21300318
+      76.png: 21300320
+      77.png: 21300322
+      78.png: 21300324
+      800.png: 21300326
+      bul_004.png: 21300398
+      bul_005.png: 21300400
+      bul_006.png: 21300402
+      bul_007.png: 21300404
+      bul_008.png: 21300406
+      bul_009.png: 21300408
+      bul_01.png: 21300410
+      bul_017.png: 21300426
+      bul_018.png: 21300428
+      bul_019.png: 21300430
+      bul_02.png: 21300432
+      bul_020.png: 21300434
+      bul_021.png: 21300436
+      bul_022.png: 21300438
+      bul_023.png: 21300440
+      bul_024.png: 21300442
+      bul_025.png: 21300444
+      bul_026.png: 21300446
+      bul_027.png: 21300448
+      bul_028.png: 21300450
+      bul_029.png: 21300452
+      bul_03.png: 21300454
+      bul_030.png: 21300456
+      bul_031.png: 21300458
+      bul_052.png: 21300462
+      bul_053.png: 21300464
+      bul_054.png: 21300466
+      bul_063.png: 21300468
+      bul_064.png: 21300470
+      bul_065.png: 21300472
+      bul_066.png: 21300474
+      bul_081.png: 21300476
+      bul_082.png: 21300478
+      bul_083.png: 21300480
+      bul_084.png: 21300482
+      bul_085.png: 21300484
+      bul_086.png: 21300486
+      bul_087.png: 21300488
+      bul_088.png: 21300490
+      bul_089.png: 21300492
+      bul_090.png: 21300494
+      bul_091.png: 21300496
+      bul_092.png: 21300498
+      bul_096.png: 21300500
+      bul_097.png: 21300502
+      bul_098.png: 21300504
+      bul_099.png: 21300506
+      bul_100.png: 21300508
+      bul_101.png: 21300510
+      bul_102.png: 21300512
+      bul_103.png: 21300514
+      bul_104.png: 21300516
+      bul_105.png: 21300518
+      bul_106.png: 21300520
+      bul_107.png: 21300522
+      bul_108.png: 21300524
+      bul_109.png: 21300526
+      bul_110.png: 21300528
+      bul_111.png: 21300530
+      bul_112.png: 21300532
+      bul_121.png: 21300550
+      bul_122.png: 21300552
+      bul_123.png: 21300554
+      bul_124.png: 21300556
+      bul_125.png: 21300558
+      bul_126.png: 21300560
+      bul_127.png: 21300562
+      bul_128.png: 21300564
+      bul_129.png: 21300566
+      bul_130.png: 21300568
+      bul_131.png: 21300570
+      bul_132.png: 21300572
+      bul_133.png: 21300574
+      bul_134.png: 21300576
+      bul_135.png: 21300578
+      bul_136.png: 21300580
+      bul_137.png: 21300582
+      bul_138.png: 21300584
+      bul_139.png: 21300586
+      bul_140.png: 21300588
+      bul_141.png: 21300590
+      bul_142.png: 21300592
+      bul_143.png: 21300594
+      bul_144.png: 21300596
+      bul_145.png: 21300598
+      bul_146.png: 21300600
+      bul_147.png: 21300602
+      bul_148.png: 21300604
+      bul_149.png: 21300606
+      bul_151.png: 21300608
+      bul_152.png: 21300610
+      bul_153.png: 21300612
+      bul_154.png: 21300614
+      bul_155.png: 21300616
+      bul_156.png: 21300618
+      bul_157.png: 21300620
+      bul_158.png: 21300622
+      bul_200.png: 21300624
+      bul_201.png: 21300626
+      bul_202.png: 21300628
+      bul_203.png: 21300630
+      bul_204.png: 21300632
+      bul_205.png: 21300634
+      bul_206.png: 21300636
+      bul_207.png: 21300638
+      bul_208.png: 21300640
+      bul_209.png: 21300642
+      bul_arrow_400.png: 21300644
+      bul_arrow_500.png: 21300646
+      bul_arrow_501.png: 21300648
+      bul_arrow_502.png: 21300650
+      bul_arrow_600.png: 21300652
+      bul_arrow_601.png: 21300654
+      bul_arrow_602.png: 21300656
+      bul_arrow_700.png: 21300658
+      bul_arrow_701.png: 21300660
+      bul_arrow_801.png: 21300662
+      bul_arrow_802.png: 21300664
+      bul_arrow_900.png: 21300666
+      bul_arrow_901.png: 21300668
+      bul_arrow_902.png: 21300670
+      bul_col_035.png: 21300460
+      bul_energy_012.png: 21300682
+      bul_energy_013.png: 21300684
+      bul_energy_014.png: 21300686
+      bul_energy_015.png: 21300688
+      bul_energy_016.png: 21300690
+      bul_rocket-079.png: 21300092
+      bul_rocket-093.png: 21300120
+      bul_rocket-094.png: 21300122
+      bul_rocket-095.png: 21300124
+      bul_shuriken_000.png: 21300672
+      bul_shuriken_001.png: 21300674
+      bul_shuriken_002.png: 21300676
+      bul_shuriken_010.png: 21300678
+      bul_shuriken_011.png: 21300680
+      bul_shuriken_113.png: 21300692
+      bul_shuriken_114.png: 21300694
+      bul_shuriken_115.png: 21300696
+      bul_shuriken_116.png: 21300698
+      bul_shuriken_117.png: 21300700
+      bul_shuriken_118.png: 21300702
+      bul_star_119.png: 21300704
+      bul_star_120.png: 21300706
+      bul_thunder 1-1.png: 21300134
+      bul_thunder 2-1.png: 21300254
+      bul_thunder 3-1.png: 21300278
+      col_036.png: 21300070
+      col_040.png: 21300072
+      col_044.png: 21300074
+      col_049.png: 21300076
+      laser1.png: 21300338
+      laser2.png: 21300340
+      laser3.png: 21300342
+      shuijing1-1.png: 21300344
+      shuijing1-2.png: 21300346
+      shuijing1-3.png: 21300348
+      shuijing1-4.png: 21300350
+      shuijing2-1.png: 21300352
+      shuijing2-2.png: 21300354
+      shuijing2-3.png: 21300356
+      shuijing2-4.png: 21300358
+      shuijing3-1.png: 21300360
+      shuijing3-2.png: 21300362
+      shuijing3-3.png: 21300364
+      shuijing3-4.png: 21300366
+      shuijing4-1.png: 21300368
+      shuijing4-2.png: 21300370
+      shuijing4-3.png: 21300372
+      shuijing4-4.png: 21300374
+      shuijing5-1.png: 21300376
+      shuijing5-2.png: 21300378
+      shuijing5-3.png: 21300380
+      shuijing5-4.png: 21300382
+      shuijing6-1.png: 21300384
+      shuijing6-2.png: 21300386
+      shuijing6-3.png: 21300388
+      shuijing6-4.png: 21300390
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
